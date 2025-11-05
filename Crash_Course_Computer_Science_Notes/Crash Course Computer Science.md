@@ -388,3 +388,5 @@
 
 - ubiquitous computing: 普适计算
 - singularity 奇点
+
+### test some changes
